@@ -2,6 +2,8 @@
 
 W1CK3D Smart Shopper is a Python script that simplifies the task of calculating the total cost of shopping items, including sales tax. Users can input product details and quantities, and the Smart Shopper will handle the rest, generating a detailed receipt.
 
+NOTE: This was created from the "ReceiptsforLovelyLoveseats" portion of CodeAcademy learning but was altered to be used by anyone with any information.
+
 ## Usage
 
 1. Clone the repository or download the `W1CK3D_Smart_Shopper.py` file.
